@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✦ Ниматула [Нима] ✦
+# ✦ Ниматулла [Нима] ✦
 
 ### `React` · `Next.js` · `TypeScript`
 
