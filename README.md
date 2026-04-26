@@ -42,7 +42,7 @@
 > 🔗 **[Первый фриланс-заказ](https://github.com/ngabibullaev/college-client.git)** — сайт знакомств для колледжа. React + PHP + MySQL. Регистрация, базы данных, успешный деплой.  
 > → [Бекенд](https://github.com/ngabibullaev/college-server.git)
 
-*Больше проектов — в моём профиле ↓*  
+*Больше проектов — У меня профиле или в закрепе ↓*  
 [Мои репозитории](https://github.com/ngabibullaev?tab=repositories)
 
 ---
