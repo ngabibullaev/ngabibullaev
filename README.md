@@ -27,7 +27,7 @@
 | **Стили** | Tailwind, shadcn/ui, SCSS, CSS Modules |
 | **Сборка** | Vite, Turbopack (Next.js) |
 | **API** | NextAuth, React Query, REST |
-| **Инструменты** | Git, Nginx, Ubuntu (VDS), Docker (базово) |
+| **Инструменты** | Git, Nginx, Ubuntu (VDS) |
 
 ---
 
@@ -52,8 +52,8 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ngacxe)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ngacxe)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngabibullaev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngabibullaev@gmail.com)
 
 </div>
 
