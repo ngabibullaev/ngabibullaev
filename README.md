@@ -33,7 +33,11 @@
 
 ### 🧩 Примеры работ
 
-> 🔗 [Мой любимый проект](https://coderix.ru/) — кратко: это моя будущая мечта, сейчас это обычный сайт полностью готовый задеплоиный на VDS и запушеный через NGINX. Из уникального это дизайн, Я сам его делал). Затем этого голова дракончика которая следит за курсором (сделал сам без ИИ), связь с сервером (заявки приходят мне в телеграм), также маленькое окошко с видосиком в левом нижнем углу, и админка.
+> 🔗 [Мой любимый проект](https://coderix.ru/) — кратко: это моя будущая мечта, сейчас это обычный сайт полностью готовый задеплоиный на VDS и запушеный через NGINX.  
+> Из уникального это дизайн, Я сам его делал).  
+> А также этого голова дракончика которая следит за курсором (сделал сам без ИИ), связь с сервером (заявки приходят мне в телеграм), также маленькое окошко с видосиком в левом нижнем углу, админка и небольшая браузерная игра "Лопни шарики".
+>
+> 
 > 🔗 [Название проекта 2](ссылка) — что делает, чем полезен  
 
 *Больше проектов — в закрепленных репозиториях ↓*
@@ -44,9 +48,9 @@
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![Email](https://img.shields.io/badge/Email-разработчика-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваш@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ваш_username)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ngacxe)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://vk.com/ngacxe)
+[![Email](https://img.shields.io/badge/Email-разработчика-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngabibullaev@email.com)
 
 </div>
 
