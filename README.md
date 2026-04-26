@@ -4,7 +4,7 @@
 
 ### `React` · `Next.js` · `TypeScript`
 
-`22 года` · `4 года c момента console.log()` · `1.5 года кодинга без выходных`
+`22 года` · `4 года с момента console.log()` · `1.5 года кодинга без выходных`
 
 </div>
 
@@ -13,9 +13,9 @@
 ### 🎯 О себе
 
 Фронтенд-разработчик, который не выключает компьютер.  
-Полтора года системной учебы каждый день - не выгорание, а режим.   
+Полтора года системной учёбы каждый день — не выгорание, а режим.  
 
-Сейчас в активном поиске на **Junior Frontend-позиции**, где смогу решать задачи и расти с командой.
+Сейчас в активном поиске **Junior Frontend-позиции**, где смогу решать задачи и расти с командой.
 
 ---
 
@@ -23,24 +23,27 @@
 
 | Область | Что использую |
 |---------|----------------|
-| **Ядро** | React, Next.js (App Router), TypeScript, JS |
-| **Стили** | Tailwind, ShadCN/UI, SCSS, CSS Modules, Styled Components |
+| **Ядро** | React, Next.js (App Router), TypeScript, JavaScript |
+| **Стили** | Tailwind, shadcn/ui, SCSS, CSS Modules |
 | **Сборка** | Vite, Turbopack (Next.js) |
-| **API** | NextAuth, React Query |
-| **Инструменты** | Git, NGINX, VDS/ubuntu, ChatGPT |
+| **API** | NextAuth, React Query, REST |
+| **Инструменты** | Git, Nginx, Ubuntu (VDS), Docker (базово) |
 
 ---
 
 ### 🧩 Примеры работ
 
-> 🔗 [Мой любимый проект](https://coderix.ru/) — кратко: это моя будущая мечта, сейчас это обычный сайт полностью готовый задеплоиный на VDS и запушеный через NGINX.  
-> Из уникального это дизайн, Я сам его делал).  
-> А также этого голова дракончика которая следит за курсором (сделал сам без ИИ), связь с сервером (заявки приходят мне в телеграм), также маленькое окошко с видосиком в левом нижнем углу, админка и небольшая браузерная игра "Лопни шарики".
->
-> 
-> 🔗 [Название проекта 2](ссылка) — что делает, чем полезен  
+> 🔗 **[coderix.ru](https://coderix.ru/)** — полностью задеплоенный на VDS сайт с Nginx.  
+> Уникальные фичи: дизайн с нуля, голова дракона, следящая за курсором (без ИИ), заявки в Telegram, админка, браузерная игра «Лопни шарики».  
+> → [Репозиторий](https://github.com/ngabibullaev/coderix.git)
 
-*Больше проектов — в закрепленных репозиториях ↓*
+> 🔗 **[Доставка еды (половинки пицц)](https://github.com/ngabibullaev/restaurant-client.git)** — первый React-проект, усовершенствованный с уникальной механикой соединения половинок пицц.
+
+> 🔗 **[Первый фриланс-заказ](https://github.com/ngabibullaev/college-client.git)** — сайт знакомств для колледжа. React + PHP + MySQL. Регистрация, базы данных, успешный деплой.  
+> → [Бекенд](https://github.com/ngabibullaev/college-server.git)
+
+*Больше проектов — в моём профиле ↓*  
+[Мои репозитории](https://github.com/ngabibullaev?tab=repositories)
 
 ---
 
@@ -49,8 +52,8 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ngacxe)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://vk.com/ngacxe)
-[![Email](https://img.shields.io/badge/Email-разработчика-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngabibullaev@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngabibullaev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngabibullaev@gmail.com)
 
 </div>
 
