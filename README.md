@@ -27,7 +27,7 @@
 | **Стили** | Tailwind, shadcn/ui, SCSS, CSS Modules |
 | **Сборка** | Vite, Turbopack (Next.js) |
 | **API** | NextAuth, React Query, REST |
-| **Инструменты** | Git, Nginx, Ubuntu (VDS) |
+| **Инструменты** | Git, Nginx, Ubuntu (VDS), Redux Toolkit |
 
 ---
 
@@ -37,7 +37,7 @@
 
 
 > 🔗 **[Доставка еды (половинки пицц)](https://restaurant-client-five.vercel.app/)** — Мой первый проект на React, доработанный с уникальной механикой соединения половинок пицц и возможностью оставлять отзывы.  
-> Связка с сервером на Node.js, уведомления о новых заказах в Telegram, хранение отзывов клиентов в отдельном файле на сервере. → [Репозиторий](https://github.com/ngabibullaev/restaurant-client.git)
+> Связка с сервером на Node.js, уведомления о новых заказах в Telegram, хранение отзывов клиентов в отдельном файле на сервере, хранилище Redux Toolkit. → [Репозиторий](https://github.com/ngabibullaev/restaurant-client.git)
 
 
 > 🔗 **[Сайт знакомств](https://github.com/ngabibullaev/college-client.git)** — React + PHP + MySQL. Регистрация, работа с базами данных. Проект сделан в учебных целях, чтобы разобраться, как работают базы данных и как с ними взаимодействовать. → [Бекенд](https://github.com/ngabibullaev/college-server.git)
